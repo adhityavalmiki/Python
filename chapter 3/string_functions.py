@@ -9,3 +9,12 @@ print(count)
 replaced_string = me.replace("h", "") # This function replace the old word with new word in the entire string.
 print(replaced_string)
 
+cap = me.capitalize() #the first character of a given string will becomes capital
+print(cap)  
+
+find = me.find("a")  
+print(find)
+
+
+print("hi iam \'adi\'") #using \' for single quote in a string
+

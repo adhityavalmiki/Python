@@ -6,21 +6,36 @@ This repository contains my practice code while learning Python from **Code With
 
 ## 📖 Course Chapters
 
-- [x] 01. Introduction to Python  
-- [x] 02. Modules and Pip  
-- [x] 03. Comments, Escape Sequences & Print Statement  
-- [ ] 04. Variables and Data Types  
-- [ ] 05. Strings  
-- [ ] 06. Lists and Tuples  
-- [ ] 07. Dictionaries and Sets  
-- [ ] 08. Conditional Expressions  
-- [ ] 09. Loops in Python  
-- [ ] 10. Functions and Recursions  
-- [ ] 11. File I/O  
-- [ ] 12. Object Oriented Programming (OOP)  
-- [ ] 13. Inheritance and More on OOP  
-- [ ] 14. Advanced Python Concepts  
-- [ ] 15. Projects and Practice  
+
+### 📂 Chapter 1
+- 1st.py
+- comments.py
+- modules.py
+- os.py
+
+### 📂 Chapter 2
+- datatypes.py
+- input.py
+- operators.py
+- rules_variables.py
+- type.py
+- variables.py
+
+### 📂 Chapter 3
+- escape_seq.py
+- string.py
+- string_functions.py
+- string_slicing.py
+
+### 📂 Chapter 4
+- list.py
+- list_indexing.py
+- list_methods.py
+- tuple.py
+- tuple_methods.py
+
+### 📂 Chapter 5
+- dictionary.py
 
 ---
 

@@ -47,11 +47,11 @@ This repository contains my practice code while learning Python from **Code With
 ## 🚀 Getting Started
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/adhityavalmiki/Python.git
 
 2. Navigate into the project folder:
    ```bash
-   cd your-repo-name
+   cd Python
 3. Run any Python file:
    ```bash
    python filename.py
